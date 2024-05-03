@@ -7,8 +7,8 @@ The ‘FacialAgeProgression' project seeks to use the capabilities of Generative
 ### Overview
 
 1. Code.ipynb
-   \- This file contains all the code related to Cycle GAN implementation, from data loading to model training and results.
-   \- It contains the code for data preprocessing, building generator-discriminator and composite model and the results
+   + This file contains all the code related to Cycle GAN implementation, from data loading to model training and results.
+   + It contains the code for data preprocessing, building generator-discriminator and composite model and the results
 
 
 ### Architecture
