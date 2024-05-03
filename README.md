@@ -37,7 +37,7 @@ UTKFace dataset is a large-scale face dataset with long age span (range from 0 t
  + provides the correspondingly aligned and cropped faces
  + provides the corresponding landmarks (68 points)
  + images are labelled by age, gender, and ethnicity
-Link for the dataset: https://susanqq.github.io/UTKFace/
+ + Link for the dataset: https://susanqq.github.io/UTKFace/
 
 ### Results
 
